@@ -2,71 +2,99 @@
 
 ## About Me
 
-Aspiring Data Analyst with experience in:
+Data Analyst skilled in SQL, Python, Tableau, data visualization, KPI reporting, business analytics, and dashboard development.
 
-- SQL
-- Python
-- Tableau
-- Data Cleaning
-- Business Intelligence
-- Fraud Analytics
-- Operations Analytics
-- HR Analytics
-- Machine Learning
+This portfolio showcases end-to-end analytics projects across multiple business domains, including Operations Analytics, Fraud Analytics, HR Analytics, and Financial Analytics.
 
 ---
 
-## Projects
+# Skills
 
-### Project 1: Quick Commerce Intelligence System
+### Programming & Analytics
+- SQL
+- Python
+- Pandas
+- NumPy
 
-Business analytics project focused on delivery operations and customer behavior.
+### Data Visualization
+- Tableau
+- Dashboard Development
+- KPI Reporting
 
-Skills:
+### Analytics Domains
+- Operations Analytics
+- Fraud Analytics
+- HR Analytics
+- Financial Analytics
 
+### Other Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+# Projects
+
+## Project 1: Quick Commerce Intelligence System
+
+### Objective
+Analyze delivery operations, customer behavior, and business performance for a quick-commerce platform.
+
+### Skills Used
 - SQL
 - Python
 - Tableau
 - KPI Analysis
 - Operations Analytics
 
-Key Insights:
+### Key Insights
+- Peak ordering hours identified
+- Delivery performance trends analyzed
+- City-wise demand patterns discovered
+- Customer ordering behavior evaluated
 
-- Peak ordering hours
-- Delivery performance
-- City-wise demand trends
-- Customer ordering behavior
+### Deliverables
+- Executive KPI Dashboard
+- Delivery Performance Dashboard
+- Customer Insights Dashboard
+- SQL Business Analysis
 
 ---
 
-### Project 2: UPI Fraud & Risk Analytics
+## Project 2: UPI Fraud & Risk Analytics
 
-Fraud detection and risk analysis project using transaction-level data.
+### Objective
+Analyze digital payment transactions and identify fraud patterns using data analytics techniques.
 
-Skills:
-
+### Skills Used
 - SQL
 - Python
 - Tableau
 - Fraud Detection
-- Risk Scoring
-- Investigation Analytics
+- Risk Analysis
+- Business Intelligence
 
-Key Insights:
+### Key Insights
+- High-risk transaction patterns identified
+- Fraud-prone locations analyzed
+- Device and payment behavior examined
+- Customer risk segmentation performed
 
-- High-risk transaction patterns
-- Fraud-prone locations
-- Device and payment behavior analysis
-- Risk segmentation
+### Deliverables
+- Fraud Monitoring Dashboard
+- Risk Segmentation Dashboard
+- Fraud Trend Analysis
+- SQL Investigation Queries
 
 ---
 
-### Project 3: HR Analytics & Employee Attrition Prediction
+## Project 3: HR Analytics & Employee Attrition Prediction
 
-End-to-end HR analytics project focused on employee attrition, workforce risk analysis, and predictive modeling.
+### Objective
+Analyze employee attrition, workforce behavior, and predict employee turnover risk.
 
-Skills:
-
+### Skills Used
 - SQL
 - Python
 - Tableau
@@ -74,60 +102,61 @@ Skills:
 - Workforce Analytics
 - Business Intelligence
 
-Key Insights:
-
+### Key Insights
 - Overall attrition rate: 16.12%
-- Overtime employees show nearly 3x higher attrition
-- Employees under 30 have the highest turnover risk
-- Employees with 0–2 years tenure are most likely to leave
-- Lower job satisfaction strongly correlates with attrition
+- Overtime employees showed significantly higher attrition
+- Employees under 30 demonstrated highest turnover risk
+- Employees with lower tenure had higher attrition probability
+- Job satisfaction strongly influenced retention
 
-Deliverables:
-
+### Deliverables
 - HR Executive Dashboard
-- Employee Risk Analysis Dashboard
+- Attrition Analysis Dashboard
+- Workforce Insights Dashboard
+- Employee Attrition Prediction Model
 - SQL Business Analysis
-- Attrition Prediction Model
 
 ---
 
-## Tools
+## Project 4: Financial Performance Analytics
 
+### Objective
+Analyze revenue, profit, customer segments, product performance, and regional business performance.
+
+### Skills Used
 - SQL
 - Python
-- Pandas
-- NumPy
 - Tableau
-- Scikit-Learn
-- Git
-- GitHub
+- Financial Analytics
+- KPI Analysis
+- Business Intelligence
+
+### Key Insights
+- Revenue: $2.3M
+- Profit: $286K
+- Profit Margin: 12.47%
+- Total Orders: 5,009
+- Average Order Value: $459
+- West Region generated highest revenue and profit
+- Technology category delivered highest profitability
+- Consumer segment generated highest profit contribution
+
+### Deliverables
+- Executive KPI Dashboard
+- Regional Performance Dashboard
+- Product Performance Dashboard
+- State-Level Analysis Dashboard
+- SQL Business Analysis
 
 ---
 
-## Repository Structure
+# Repository Structure
 
-```text
-Data-Analytics-Projects
-
-├── Project-1-Quick-Commerce-Intelligence
-├── Project-2-UPI-Fraud-Risk-Analytics
-├── Project-3-HR-Analytics-Project
-└── README.md
-```
+text Data-Analytics-Portfolio │ ├── Project-1-Quick-Commerce-Intelligence ├── Project-2-UPI-Fraud-Risk-Analytics ├── Project-3-HR-Analytics-Project ├── Project-4-Financial-Performance-Analytics │ └── README.md 
 
 ---
 
-## Contact
-
-GitHub:
-https://github.com/RR-coder
-
-LinkedIn:
-(Add your LinkedIn profile)
-
----
-
-## Portfolio Highlights
+# Portfolio Highlights
 
 ✔ Business Analytics
 
@@ -137,14 +166,34 @@ LinkedIn:
 
 ✔ HR Analytics
 
+✔ Financial Analytics
+
+✔ KPI Reporting
+
 ✔ Dashboard Development
 
 ✔ SQL Querying
 
 ✔ Python Data Analysis
 
-✔ Machine Learning
-
 ✔ Tableau Visualization
 
+✔ Machine Learning
+
 ✔ End-to-End Analytics Projects
+
+---
+
+# Contact
+
+GitHub:
+https://github.com/RR-coder
+
+LinkedIn:
+(Add your LinkedIn Profile)
+
+---
+
+## Goal
+
+To demonstrate practical data analytics skills through real-world business case studies and end-to-end projects covering data cleaning, exploratory analysis, KPI reporting, dashboard development, SQL analytics, and business insights generation.
